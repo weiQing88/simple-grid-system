@@ -22,6 +22,7 @@
 
 ```
 ###usage
+```css
 <div class="Responsive-container">
   <div class="row">
       <span class="col-1">
@@ -29,3 +30,4 @@
       <span class="col-4">
      </div>
  </div>	
+ ```
